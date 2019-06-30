@@ -1,0 +1,24 @@
+2019-06-30 16:15:03 u97822572 zR37ii-1i2U2N3naO-00YNdy |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 16:15:03 u97822572 zR37ii-1i2U2N3naO-00YNdy <= S=webmaster@free.fr SZ=631 D=0 SID=789541961
+2019-06-30 16:15:03 u97822572 zR37ii-1i2U2N3naO-00YNdy => jules@free.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1N2SXX-1igkOm3wCt-013xz4
+2019-06-30 16:15:33 u97822572 zRyGka-1iOO9x2lKe-00lnYn |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 16:15:33 u97822572 zRyGka-1iOO9x2lKe-00lnYn <= S=webmaster@free.fr SZ=631 D=0 SID=789541961
+2019-06-30 16:15:33 u97822572 zRyGka-1iOO9x2lKe-00lnYn => jules@free.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MGzI3-1hmrx82yt1-00E559
+2019-06-30 16:18:04 u97822572 zRfmOb-1if6CT0RdB-012KW9 |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 16:18:04 u97822572 zRfmOb-1if6CT0RdB-012KW9 <= S=theo.cuartiella@theo-cuartiella.fr SZ=679 D=0 SID=789541961
+2019-06-30 16:18:04 u97822572 zRfmOb-1if6CT0RdB-012KW9 => theo.cuartiella@theo-cuartiella.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MI5Dj-1hnxud0jpf-00FBmI
+2019-06-30 16:21:46 u97822572 zRKn84-1hkwkQ1IfE-00GdS7 |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 16:21:46 u97822572 zRKn84-1hkwkQ1IfE-00GdS7 <= S=theo.lol@gmlol.com SZ=666 D=0 SID=789541961
+2019-06-30 16:21:46 u97822572 zRKn84-1hkwkQ1IfE-00GdS7 => theo.cuartiella@theo-cuartiella.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MrPyJ-1iN1af1lKh-00oWVa
+2019-06-30 21:35:37 u97822572 zR6Af9-1i6EeA3X8F-00TTlL |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 21:35:37 u97822572 zR6Af9-1i6EeA3X8F-00TTlL <= S=cgi-mailer-bounces-789541961@kundenserver.de SZ=734 D=0 SID=789541961
+2019-06-30 21:35:37 u97822572 zR6Af9-1i6EeA3X8F-00TTlL => theo.cuartiella@theo-cuartiella.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1M9FSx-1heeg23pgt-006LDt
+2019-06-30 22:29:12 u97822572 zRV0kM-1iaL2E22Fi-00sa6H |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 22:29:12 u97822572 zRV0kM-1iaL2E22Fi-00sa6H <= S=cgi-mailer-bounces-789541961@kundenserver.de SZ=705 D=0 SID=789541961
+2019-06-30 22:29:12 u97822572 zRV0kM-1iaL2E22Fi-00sa6H => theo.cuartiella@theo-cuartiella.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MsJXG-1iX1e62Hhi-00tlUJ
+2019-06-30 22:29:51 u97822572 zRm8Bw-1iH1Cx0jqq-00ZGJl |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 22:29:51 u97822572 zRm8Bw-1iH1Cx0jqq-00ZGJl <= S=cgi-mailer-bounces-789541961@kundenserver.de SZ=719 D=0 SID=789541961
+2019-06-30 22:29:51 u97822572 zRm8Bw-1iH1Cx0jqq-00ZGJl => theo.cuartiella@theo-cuartiella.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1M5Q2f-1hiVnm0sPV-001NVb
+2019-06-30 22:34:43 u97822572 zQvP0u-1hzLuN42QC-00HloM |< REMOTE=88.122.129.0 SCRIPT=/bdd2.php -- /usr/sbin/sendmail -t -i
+2019-06-30 22:34:43 u97822572 zQvP0u-1hzLuN42QC-00HloM <= S=cgi-mailer-bounces-789541961@kundenserver.de SZ=733 D=0 SID=789541961
+2019-06-30 22:34:44 u97822572 zQvP0u-1hzLuN42QC-00HloM => theo.cuartiella@theo-cuartiella.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MIxFi-1hxhDa06kE-00KQ3e

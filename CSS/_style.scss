@@ -1,0 +1,49 @@
+@charset "utf-8";
+@import '_include/banner';
+@import '_include/head';
+@import '_include/skill';
+@import '_include/portfolio';
+@import '_include/about';
+
+/*font-family: 'Raleway', sans-serif;*/
+body, html{
+padding: 0;
+margin:0;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+/*Fleche tete*/
+.tete img{
+    position: fixed;
+    float: right;
+    right: 0;
+    top:300px;
+    bottom:0;
+}
+.separator{
+    height: 4px;
+    width: 465px;
+    border-radius: 100%;
+    box-shadow: none;
+    background-color: #349BDB;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+/*banner*/
+.padding0{
+    padding: 0;
+    }
+    
+    .banner{
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .ban {
+        max-width: 100%;
+        width: 100%;
+        position: relative;
+    }
+    .ban img{
+        max-width: 100%;
+        width: 100%;
+    }
+    
+    .inner-banner{
+        position: absolute;
+        top:20em;
+        left:0;
+        width: 100%;
+        text-align: center;
+    }
+    
+    
+    .inner-banner h1{
+        color:#ffffff;
+        text-shadow: 1px 1px 20px #000000;
+    }
+    .inner-banner .btn-custom{
+        background-color: #349BDB;
+        color: #ffffff;
+    }
+    .inner-banner .btn-custom:hover{
+        background-color: blueviolet;
+    }
